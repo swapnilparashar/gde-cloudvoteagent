@@ -1,0 +1,77 @@
+{
+  "id": "9f6fc4ba-5675-4d73-bb31-51d926bb5283",
+  "parentId": "0132e338-54de-4d2c-a659-ab3cce35446a",
+  "rootParentId": "85ee820c-b534-457e-a943-eb89570e074b",
+  "name": "bot.order - yes - intermediate",
+  "auto": true,
+  "contexts": [
+    "botorder-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.order.intermediate",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Cool. Keep developing your bots with us!",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "carousel_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "https://docs.api.ai/page/guidelines",
+                "synonyms": []
+              },
+              "title": "Check out some of our samples",
+              "description": "Samples show basic concepts.",
+              "image": {
+                "url": "",
+                "accessibilityText": ""
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "https://docs.api.ai/docs/prebuilt-agents",
+                "synonyms": []
+              },
+              "title": "And some of the Prebuilt Agents",
+              "description": "List of all available Prebuilt Agents.",
+              "image": {
+                "url": "",
+                "accessibilityText": ""
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Cool. Keep developing your bots with us! Have a look at our guidelines here: https://docs.api.ai/docs/profile-bot-example-agent. Maybe you\u0027ll find some useful examples in our Prebuilt Agents, have a look here: https://docs.api.ai/docs/prebuilt-agents"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

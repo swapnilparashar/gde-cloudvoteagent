@@ -1,0 +1,9 @@
+{
+  "id": "6ae7c60a-a4c6-4b87-8293-6d018d215475",
+  "name": "industry",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

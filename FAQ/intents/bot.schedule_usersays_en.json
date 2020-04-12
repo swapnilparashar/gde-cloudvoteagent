@@ -1,0 +1,130 @@
+[
+  {
+    "id": "b331ff07-c217-43e9-9407-fd9975f9d583",
+    "data": [
+      {
+        "text": "schedule next session",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c615722a-07c6-4586-8771-007baad5757b",
+    "data": [
+      {
+        "text": "schedule next talk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7fd325a-d29a-42c8-a974-b6c1790a5b78",
+    "data": [
+      {
+        "text": "next session please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1631f56-f6a8-4d8d-8606-b1018871b6d5",
+    "data": [
+      {
+        "text": "next talk please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1515f537-5a60-4637-8352-5d072f14049a",
+    "data": [
+      {
+        "text": "next session on file ",
+        "userDefined": false
+      },
+      {
+        "text": "storage",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41521676-d850-40fc-9419-93d3a85b5ba8",
+    "data": [
+      {
+        "text": "Next talk on ",
+        "userDefined": false
+      },
+      {
+        "text": "big data",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2813af46-9ed5-48e6-a41d-88de134dd6d8",
+    "data": [
+      {
+        "text": "I would like next talk on ",
+        "userDefined": false
+      },
+      {
+        "text": "serverless",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": true
+      },
+      {
+        "text": " technology.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2734f39-1bbc-470e-af3f-1e5580f6a877",
+    "data": [
+      {
+        "text": "Could you please schedule your next session on ",
+        "userDefined": false
+      },
+      {
+        "text": "AI",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

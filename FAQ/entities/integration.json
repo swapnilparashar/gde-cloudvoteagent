@@ -1,0 +1,9 @@
+{
+  "id": "8035f4e8-4549-4ace-b8e2-7a496c944b6e",
+  "name": "integration",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

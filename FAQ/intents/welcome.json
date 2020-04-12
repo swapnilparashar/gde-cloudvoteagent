@@ -1,0 +1,59 @@
+{
+  "id": "e22848f9-7a57-4e44-a304-2e8a73f72584",
+  "name": "welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "Hey! I\u0027m a sample FAQ agent. What would you like to know?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Where do I start?"
+            },
+            {
+              "title": "Start tutorial"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Hey! I\u0027m a sample FAQ agent. I can talk about conversation apps. What would you like to know?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,157 @@
+[
+  {
+    "id": "99bf2b2e-f5fb-4a62-8408-b08fb50be58a",
+    "data": [
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3df51b2-d0ae-4de2-a97b-ae183cd4228d",
+    "data": [
+      {
+        "text": "don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be455353-9c3a-463f-b9fa-9d9b74ffd927",
+    "data": [
+      {
+        "text": "don\u0027t know anything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ed561b1-6b10-4305-8911-3f5350e091c5",
+    "data": [
+      {
+        "text": "not familiar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41f45e61-8911-472f-9085-45f32ccd696b",
+    "data": [
+      {
+        "text": "it\u0027s going to be my ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09427027-41bc-4bd5-8fbc-4ccaa0a1c3fb",
+    "data": [
+      {
+        "text": "elementary",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f2fb188-818f-4be2-b0b5-710f5bddb7cd",
+    "data": [
+      {
+        "text": "beginner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25df230c-6ff9-4d99-bd95-2fa567182e13",
+    "data": [
+      {
+        "text": "I\u0027m just starting to dive into bot\u0027s world",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2b4b8a9-632f-44b7-8b33-6e9182f4d622",
+    "data": [
+      {
+        "text": "just starting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "261a5735-4d0a-4177-ab4c-07203a1b9fec",
+    "data": [
+      {
+        "text": "I\u0027m a beginner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b22d4023-331a-4efa-ac28-be41c0296f53",
+    "data": [
+      {
+        "text": "I\u0027m doing it for the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "68e56616-a5eb-41c7-b637-c1415f5c6057",
+    "data": [
+      {
+        "text": "save my vote on ",
+        "userDefined": false
+      },
+      {
+        "text": "logging",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57303efb-ce7e-449b-8d86-7d41f7708b66",
+    "data": [
+      {
+        "text": "register my vote on Artificial ",
+        "userDefined": false
+      },
+      {
+        "text": "Intelligence",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "067905ef-7299-4cab-8244-24572efcb6bf",
+    "data": [
+      {
+        "text": "add my vote on ",
+        "userDefined": false
+      },
+      {
+        "text": "storage",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

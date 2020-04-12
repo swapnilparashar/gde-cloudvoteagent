@@ -1,0 +1,51 @@
+{
+  "id": "adb31a4e-73d7-40ee-8102-51d4f0eb34ac",
+  "name": "bot.schedule",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "technology",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2d1d6674-718f-4554-834d-8d78e7fd3ca6",
+          "required": true,
+          "dataType": "@technology",
+          "name": "technology",
+          "value": "$technology",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which cloud technology?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Great, we will schedule the next session on Google Cloud: $technology"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

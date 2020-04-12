@@ -1,0 +1,285 @@
+[
+  {
+    "id": "ab8ffedd-c32c-4f0b-99cb-222e471f3178",
+    "data": [
+      {
+        "text": "I\u0027m about to start working on a ",
+        "userDefined": false
+      },
+      {
+        "text": "fun",
+        "alias": "industry",
+        "meta": "@industry",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Assistant",
+        "alias": "platform",
+        "meta": "@platform",
+        "userDefined": false
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a89cacc7-e217-4f79-87b4-9513584c1c84",
+    "data": [
+      {
+        "text": "I\u0027m working on a ",
+        "userDefined": false
+      },
+      {
+        "text": "Slack",
+        "alias": "platform",
+        "meta": "@platform",
+        "userDefined": true
+      },
+      {
+        "text": " bot for a ",
+        "userDefined": false
+      },
+      {
+        "text": "finance",
+        "alias": "industry",
+        "meta": "@industry",
+        "userDefined": true
+      },
+      {
+        "text": " company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c763ec43-2860-411b-8769-535b4bb031df",
+    "data": [
+      {
+        "text": "i\u0027m building a bot for ",
+        "userDefined": false
+      },
+      {
+        "text": "customer support",
+        "alias": "industry",
+        "meta": "@industry",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ac1708d-ed2a-4f23-b1c3-319f78b38e07",
+    "data": [
+      {
+        "text": "I need a bot for ",
+        "userDefined": false
+      },
+      {
+        "text": "android",
+        "alias": "platform",
+        "meta": "@platform",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b660dae-7c4f-4f10-9bfb-deb13cab7e8d",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "facebook",
+        "alias": "platform",
+        "meta": "@platform",
+        "userDefined": true
+      },
+      {
+        "text": " bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e1cff20-19fc-4fa7-8cdd-c26a1bc30752",
+    "data": [
+      {
+        "text": "need help with an ",
+        "userDefined": false
+      },
+      {
+        "text": "Assistant",
+        "alias": "platform",
+        "meta": "@platform",
+        "userDefined": false
+      },
+      {
+        "text": " conversation app for a ",
+        "userDefined": false
+      },
+      {
+        "text": "travel",
+        "alias": "industry",
+        "meta": "@industry",
+        "userDefined": true
+      },
+      {
+        "text": " company",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "92dd8229-f5db-4d80-bc2a-c4f88dcd0bc9",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " create a chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc2638f2-31b4-4644-99e6-6a271289141b",
+    "data": [
+      {
+        "text": "how to create a chatbot for ",
+        "userDefined": false
+      },
+      {
+        "text": "entertainment",
+        "alias": "industry",
+        "meta": "@industry",
+        "userDefined": true
+      },
+      {
+        "text": " purposes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "354ef40e-bf4e-4d86-b1dc-a42857765861",
+    "data": [
+      {
+        "text": "how to build a ",
+        "userDefined": false
+      },
+      {
+        "text": "support",
+        "alias": "industry",
+        "meta": "@industry",
+        "userDefined": true
+      },
+      {
+        "text": " bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3193780-f17e-43f7-8f79-5f17835d5d8c",
+    "data": [
+      {
+        "text": "where do people buy chatbots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5661d98-2922-40ca-beef-dc377dc89680",
+    "data": [
+      {
+        "text": "I need a bot for a ",
+        "userDefined": false
+      },
+      {
+        "text": "connected bot app",
+        "alias": "industry",
+        "meta": "@industry",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d895a95f-28ad-4b3b-9608-5d9ef2c03e96",
+    "data": [
+      {
+        "text": "how to create a ",
+        "userDefined": false
+      },
+      {
+        "text": "hotel booking",
+        "alias": "industry",
+        "meta": "@industry",
+        "userDefined": true
+      },
+      {
+        "text": " bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ac29787-284a-4f98-8d8b-481c8a26fd8a",
+    "data": [
+      {
+        "text": "how do I start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

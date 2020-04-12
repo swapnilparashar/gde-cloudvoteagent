@@ -1,0 +1,9 @@
+{
+  "id": "af7d5635-5167-42ab-ae78-f4654d3de57f",
+  "name": "sdk",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

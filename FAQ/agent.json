@@ -1,0 +1,57 @@
+{
+  "description": "The agent is an example of how you can build an FAQ conversation use case.",
+  "language": "en",
+  "shortDescription": "A very simple FAQ agent",
+  "examples": "User: I\u0027m working on an Assistant app for a sports program.\nUser: I need a Slack bot.\nUser: Can you help me build a hotel booking bot?",
+  "linkToDocs": "",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "",
+    "welcomeIntentSignInRequired": true,
+    "startIntents": [
+      {
+        "intentId": "e22848f9-7a57-4e44-a304-2e8a73f72584",
+        "signInRequired": true
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/Denver",
+  "webhook": {
+    "url": "https://us-central1-faq-sxdulu.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "username": "",
+    "headers": {},
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": false,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.2,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2beta1",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": ""
+}

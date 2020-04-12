@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6a3b60f9-7add-4c39-8006-eb33f3cda44d",
+    "data": [
+      {
+        "text": "Good day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0af5dbab-6026-472a-807b-4048a8b8948b",
+    "data": [
+      {
+        "text": "Let\u0027s start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94af9bb9-d176-48a9-a2f8-f0afe7ddb156",
+    "data": [
+      {
+        "text": "Hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccbb50ce-ca3e-4d3f-81de-7b3d6f399931",
+    "data": [
+      {
+        "text": "Hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e65e3988-e139-4349-b1d4-cba3f1936f84",
+    "data": [
+      {
+        "text": "Hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f355c54f-8dd2-4dd9-ac4d-d0862963ca01",
+    "data": [
+      {
+        "text": "welcome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

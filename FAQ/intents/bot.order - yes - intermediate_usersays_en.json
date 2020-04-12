@@ -1,0 +1,129 @@
+[
+  {
+    "id": "293ed626-310d-43de-8302-3fd37369ce4f",
+    "data": [
+      {
+        "text": "Intermediate, ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c9a51cf-0669-491c-b7fd-1c2cac3ff017",
+    "data": [
+      {
+        "text": "Intermediate, built a ",
+        "userDefined": false
+      },
+      {
+        "text": "couple",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of bots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6fd9358-99ec-47c3-9886-da45e326b517",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4342fc6b-1f5b-46bd-b5aa-de3f7d8eaf40",
+    "data": [
+      {
+        "text": "I\u0027m not very experienced",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cdfbc3fb-c1fc-497b-a7d4-f7947c26cc3a",
+    "data": [
+      {
+        "text": "I\u0027ve built a ",
+        "userDefined": false
+      },
+      {
+        "text": "couple",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "bots",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2130b117-3a1e-486e-b3ea-cd8cabfabd16",
+    "data": [
+      {
+        "text": "intermediate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "id": "85ee820c-b534-457e-a943-eb89570e074b",
+  "name": "bot.order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.order",
+      "affectedContexts": [
+        {
+          "name": "botorder-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a666588f-0e23-44a0-bafb-c39ee0067706",
+          "required": true,
+          "dataType": "@industry",
+          "name": "industry",
+          "value": "$industry",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What\u0027s the industry you\u0027re working at?"
+            },
+            {
+              "lang": "en",
+              "value": "What field are you working in?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "017d987e-f30f-4f01-b946-3329d10b910b",
+          "required": true,
+          "dataType": "@platform",
+          "name": "platform",
+          "value": "$platform",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What platform are you launching for?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "slack",
+          "lang": "en",
+          "condition": "",
+          "title": "",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "",
+          "replies": [
+            "Yes",
+            "No"
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Are you planning to use a web service?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "slack": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

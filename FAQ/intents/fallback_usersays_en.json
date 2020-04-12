@@ -1,0 +1,122 @@
+[
+  {
+    "id": "487fe562-608a-41b2-af71-683005240f32",
+    "data": [
+      {
+        "text": "Nice shirt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "288771c0-04fa-4f6f-88cf-4b393edd30c1",
+    "data": [
+      {
+        "text": "Could you please show me some dog pictures",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c35b3164-593e-4582-b709-446a78aca4ec",
+    "data": [
+      {
+        "text": "Navigate home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4b18060-11be-4096-90a9-05b0a852eb88",
+    "data": [
+      {
+        "text": "Who are US presidents?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b73d279-a56d-42ec-8340-f7aee61d2323",
+    "data": [
+      {
+        "text": "What are the main cities in UK?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "688b8c54-9570-4b79-8756-8ae28421eed5",
+    "data": [
+      {
+        "text": "Need help with cooking recipes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21f66e07-4f9e-434f-901d-06f95102d52d",
+    "data": [
+      {
+        "text": "I want to build a snowman",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3353a124-d377-481c-a224-e3b8957152e1",
+    "data": [
+      {
+        "text": "Tell me about the weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "139a2fd3-9f70-4951-b2f8-b5c5c5ff00f8",
+    "data": [
+      {
+        "text": "What can you do to make me laugh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "973674f5-4b6a-4215-b320-0356d13ea9b3",
+    "data": [
+      {
+        "text": "Show me your travel plans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

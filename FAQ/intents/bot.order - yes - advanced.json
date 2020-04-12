@@ -1,0 +1,68 @@
+{
+  "id": "84bb77a0-e8f6-435a-9ff0-63c7386355e4",
+  "parentId": "0132e338-54de-4d2c-a659-ab3cce35446a",
+  "rootParentId": "85ee820c-b534-457e-a943-eb89570e074b",
+  "name": "bot.order - yes - advanced",
+  "auto": true,
+  "contexts": [
+    "botorder-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.order.advanced",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "How can I possibly help such a professional?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "formattedText": "Let\u0027s have a look at our Training Feature to make your future bot even smarter.",
+          "image": {
+            "url": "",
+            "accessibilityText": ""
+          },
+          "buttons": [
+            {
+              "title": "Training",
+              "openUrlAction": {
+                "url": "https://docs.api.ai/docs/training",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Wow! Cool to see a real pro. I hope, you\u0027ll find our ML section interesting: https://dialogflow.com/docs/machine-learning",
+            "How can I possibly help such a professional? Let\u0027s have a look at our Training Feature to make your future bot even smarter: https://dialogflow.com/docs/training"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

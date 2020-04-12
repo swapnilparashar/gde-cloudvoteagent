@@ -1,0 +1,76 @@
+[
+  {
+    "value": "Android SDK",
+    "synonyms": [
+      "Android",
+      "Android SDK"
+    ]
+  },
+  {
+    "value": "C#",
+    "synonyms": [
+      "C#"
+    ]
+  },
+  {
+    "value": "C++",
+    "synonyms": [
+      "C++"
+    ]
+  },
+  {
+    "value": "HTML",
+    "synonyms": [
+      "HTML"
+    ]
+  },
+  {
+    "value": "JavaScript",
+    "synonyms": [
+      "JavaScript"
+    ]
+  },
+  {
+    "value": "iOS SDK",
+    "synonyms": [
+      "iOS SDK",
+      "ios"
+    ]
+  },
+  {
+    "value": "java",
+    "synonyms": [
+      "java"
+    ]
+  },
+  {
+    "value": "node js",
+    "synonyms": [
+      "node js"
+    ]
+  },
+  {
+    "value": "php",
+    "synonyms": [
+      "php"
+    ]
+  },
+  {
+    "value": "python",
+    "synonyms": [
+      "python"
+    ]
+  },
+  {
+    "value": "ruby",
+    "synonyms": [
+      "ruby"
+    ]
+  },
+  {
+    "value": "unity",
+    "synonyms": [
+      "unity"
+    ]
+  }
+]

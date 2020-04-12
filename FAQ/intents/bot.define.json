@@ -1,0 +1,46 @@
+{
+  "id": "6716085b-2f76-4464-8957-19a082e82c9b",
+  "name": "bot.define",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.define",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Dialogflow is a Google service that runs on Google Cloud Platform, letting you scale to hundreds of millions of users. Optimized for the Google Assistant Dialogflow is the most widely used tool to build Actions for Google Assistant devices."
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "title": "What are chatbots?",
+          "formattedText": "A chatbot (bot or conversation app) is a computer program which conducts a conversation via speech or text. Chatbots can be single or multipurpose, designed just for fun or help people get things done. They can live in multiple platforms like Google Assistant, Facebook Messenger, Slack, etc.",
+          "image": {
+            "url": "https://lh3.googleusercontent.com/ZO4koX9TVp0qqTujwCUEkkA0P1TAWBNbLGPbLWLmZDnhgE2zz49FiChkaQLLYsEwfEqJA06bJ5VeD6tfNA0cP-omQeNnig\u003ds688",
+            "accessibilityText": "What are chatbots?"
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

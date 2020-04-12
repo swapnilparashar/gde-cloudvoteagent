@@ -1,0 +1,45 @@
+{
+  "id": "88297deb-afa3-4fe7-accd-41d77ba0b91c",
+  "name": "bot.vote",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "technology",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1edf2954-d076-4a9e-bfdb-c6802691a9ae",
+          "required": true,
+          "dataType": "@technology",
+          "name": "technology",
+          "value": "$technology",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
