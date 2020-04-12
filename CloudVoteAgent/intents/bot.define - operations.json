@@ -1,0 +1,55 @@
+{
+  "id": "17941e0e-608b-44ae-b789-fb9370e34c3a",
+  "parentId": "40fa5f8f-b65b-40bc-bddc-caa27b57a9f0",
+  "rootParentId": "40fa5f8f-b65b-40bc-bddc-caa27b57a9f0",
+  "name": "bot.define - operations",
+  "auto": true,
+  "contexts": [
+    "botdefine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "botdefine.botdefine-custom",
+      "affectedContexts": [
+        {
+          "name": "botdefine-operations-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e36faee9-f761-4004-b70f-475a8df3d8b8",
+          "required": false,
+          "dataType": "@technology",
+          "name": "technology",
+          "value": "$technology",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Google Cloud Operations including activities like Monitoring, Debugging, Logging, Error Reporting, Tracing, Profiling etc."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

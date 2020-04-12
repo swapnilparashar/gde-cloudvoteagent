@@ -1,0 +1,40 @@
+{
+  "id": "40fa5f8f-b65b-40bc-bddc-caa27b57a9f0",
+  "name": "bot.define",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "botdefine-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Which one are you interested to know more about - Compute, Storage, Big Data, Artificial Intelligence or Operations?",
+            "Please choose one of the following - Compute, Storage, Big Data, Artificial Intelligence or Operations?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

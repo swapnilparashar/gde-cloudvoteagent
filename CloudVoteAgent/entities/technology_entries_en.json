@@ -1,0 +1,59 @@
+[
+  {
+    "value": "Compute",
+    "synonyms": [
+      "Compute",
+      "App",
+      "Kubernetes",
+      "Functions",
+      "Run",
+      "Serverless",
+      "Service",
+      "Software",
+      "Platform",
+      "Infrastructure"
+    ]
+  },
+  {
+    "value": "Storage",
+    "synonyms": [
+      "Storage",
+      "File Store",
+      "Fire Store",
+      "SQL",
+      "No SQL",
+      "Table"
+    ]
+  },
+  {
+    "value": "Operations",
+    "synonyms": [
+      "Operations",
+      "Monitoring",
+      "Logging",
+      "Tracing",
+      "Reporting",
+      "Debugging"
+    ]
+  },
+  {
+    "value": "Big Data",
+    "synonyms": [
+      "Big Data",
+      "Big Query"
+    ]
+  },
+  {
+    "value": "Artificial Intelligence",
+    "synonyms": [
+      "Artificial Intelligence",
+      "A I",
+      "Natural Language",
+      "Vision",
+      "Video",
+      "Translation",
+      "Labelling",
+      "Recommendations"
+    ]
+  }
+]

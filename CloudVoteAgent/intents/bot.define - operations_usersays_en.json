@@ -1,0 +1,86 @@
+[
+  {
+    "id": "e8ad4fac-263b-4894-b695-e798c391ed9a",
+    "data": [
+      {
+        "text": "Debugging",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a2e3b57-84b1-4972-aa84-94b1d655f3d2",
+    "data": [
+      {
+        "text": "Tracing",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f92f0526-f989-4c3f-b684-69db599ef219",
+    "data": [
+      {
+        "text": "Reporting",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "173576df-c471-4ed3-8437-cfd3f52cd9ae",
+    "data": [
+      {
+        "text": "Monitoring",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8360391a-ae7c-4c8f-8ecb-e9c00b0d6c1b",
+    "data": [
+      {
+        "text": "Logging",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfe5fd31-5c6d-4447-813f-0885c41ad635",
+    "data": [
+      {
+        "text": "Operations",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

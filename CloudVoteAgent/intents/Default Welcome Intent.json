@@ -1,0 +1,41 @@
+{
+  "id": "d596c7c9-7431-4d3c-8eba-1ba2e3b4bd21",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Hi! How are you doing? I can help you to vote on the interest in Google Cloud Technologies.",
+            "Hello! How can I help you? I help you to vote on Google Cloud Technologies for the next talk.",
+            "Good day! What can I do for you today? You can register your vote regarding your interest in Google Cloud Technologies.",
+            "Greetings! How can I assist? You can vote on Google Cloud Technologies for the next session."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

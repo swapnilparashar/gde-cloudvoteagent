@@ -1,0 +1,114 @@
+[
+  {
+    "id": "03ce4646-b2f1-4daf-8078-a61cffb5985a",
+    "data": [
+      {
+        "text": "Natural Language",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1265d58-839d-40d3-a822-79eb0dbbecc3",
+    "data": [
+      {
+        "text": "Labelling",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f9a3a4a-4baa-4e26-90a6-23a66cd801d3",
+    "data": [
+      {
+        "text": "Recommendation",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe35d1f2-d60d-4099-a5a9-034e08ea0a16",
+    "data": [
+      {
+        "text": "Translation",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bce8bd1a-be36-4819-8d44-5a6254aa1f42",
+    "data": [
+      {
+        "text": "Vision",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "379b00ef-7986-4cfe-8a56-7354be9688c9",
+    "data": [
+      {
+        "text": "Video",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0b977a4-1556-4063-b957-dceccade470d",
+    "data": [
+      {
+        "text": "Artificial Intelligence",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6ab8d78-6ea6-4774-b240-aada70e56d11",
+    "data": [
+      {
+        "text": "A I",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

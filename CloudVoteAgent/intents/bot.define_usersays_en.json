@@ -1,0 +1,55 @@
+[
+  {
+    "id": "31e3c31b-8b7d-45fe-9f43-5128f4c64ac6",
+    "data": [
+      {
+        "text": "Want to use Google Cloud technologies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f258d478-518b-437e-8ae9-a337b7bb9d06",
+    "data": [
+      {
+        "text": "Want",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to learn more about Google Cloud technologies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e5a797a-9299-426a-9a0f-a1ca4cdcd559",
+    "data": [
+      {
+        "text": "Tell me more about different Google Cloud technologies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5cc70d7-4b51-471f-b9ee-fdd02fb8da99",
+    "data": [
+      {
+        "text": "What are the different Google Cloud technologies available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

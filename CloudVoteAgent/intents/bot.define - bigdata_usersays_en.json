@@ -1,0 +1,30 @@
+[
+  {
+    "id": "622721fe-5a95-475e-b2ee-6fd1e70027a2",
+    "data": [
+      {
+        "text": "Big Query",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71f69521-e182-463e-8108-6a41c5fa722e",
+    "data": [
+      {
+        "text": "Big Data",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

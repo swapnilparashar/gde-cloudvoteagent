@@ -1,0 +1,55 @@
+{
+  "id": "02bddadb-c7dd-4571-9a3d-9263d6c4a144",
+  "parentId": "40fa5f8f-b65b-40bc-bddc-caa27b57a9f0",
+  "rootParentId": "40fa5f8f-b65b-40bc-bddc-caa27b57a9f0",
+  "name": "bot.define - storage",
+  "auto": true,
+  "contexts": [
+    "botdefine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "botdefine.botdefine-custom",
+      "affectedContexts": [
+        {
+          "name": "botdefine-storage-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "22dab281-b857-43e6-8280-9a4230769b07",
+          "required": false,
+          "dataType": "@technology",
+          "name": "technology",
+          "value": "$technology",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Google Cloud Storage consists of Object Storage, File Store, Fire Store, Relational Database like SQL, No SQL like Spanner etc."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "886728b3-f093-4501-aabe-0c28f715fd06",
+  "parentId": "40fa5f8f-b65b-40bc-bddc-caa27b57a9f0",
+  "rootParentId": "40fa5f8f-b65b-40bc-bddc-caa27b57a9f0",
+  "name": "bot.define - ai",
+  "auto": true,
+  "contexts": [
+    "botdefine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "botdefine.botdefine-custom",
+      "affectedContexts": [
+        {
+          "name": "botdefine-ai-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "dd3c7b08-e90c-4957-846e-dac66a45d85b",
+          "required": false,
+          "dataType": "@technology",
+          "name": "technology",
+          "value": "$technology",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Google Cloud Artificial Intelligence consists of translation, vision, video api to find contents of image and classification, video, natural language for sentiment analysis, recommendations and data labelling."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

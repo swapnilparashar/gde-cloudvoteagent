@@ -1,0 +1,51 @@
+{
+  "id": "fbc03e4e-df06-450b-bf0d-de5498d27ac5",
+  "name": "bot.read",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "technology",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "45541ec4-54ed-40e6-b642-3c2181d8f26c",
+          "required": true,
+          "dataType": "@technology",
+          "name": "technology",
+          "value": "$technology",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which Google Cloud technology?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Cloud function didn\u0027t get called!!!! OOOPS"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

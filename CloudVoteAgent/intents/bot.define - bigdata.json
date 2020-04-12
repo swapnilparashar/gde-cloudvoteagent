@@ -1,0 +1,55 @@
+{
+  "id": "cb45cf38-ed88-425a-9739-88990f4c1972",
+  "parentId": "40fa5f8f-b65b-40bc-bddc-caa27b57a9f0",
+  "rootParentId": "40fa5f8f-b65b-40bc-bddc-caa27b57a9f0",
+  "name": "bot.define - bigdata",
+  "auto": true,
+  "contexts": [
+    "botdefine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "botdefine.botdefine-custom-2",
+      "affectedContexts": [
+        {
+          "name": "botdefine-bigdata-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "aee7314e-a6a4-4bc1-904c-cdff224c473e",
+          "required": false,
+          "dataType": "@technology",
+          "name": "technology",
+          "value": "$technology",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Google Cloud Big Data consists of Big Data, Big Query and reactive architecture components for eventing such as Pub Sub"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

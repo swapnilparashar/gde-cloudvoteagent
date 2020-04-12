@@ -1,0 +1,56 @@
+[
+  {
+    "id": "6c9559e7-2b22-44c9-bd20-8eba18b6a00a",
+    "data": [
+      {
+        "text": "read current value of ",
+        "userDefined": false
+      },
+      {
+        "text": "logging",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "daf816d6-c25b-47f6-8c16-28625a8d0766",
+    "data": [
+      {
+        "text": "read value of ",
+        "userDefined": false
+      },
+      {
+        "text": "SQL",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "697551c9-28b2-4be5-b9e7-144dbbe80e44",
+    "data": [
+      {
+        "text": "read from database value of ",
+        "userDefined": false
+      },
+      {
+        "text": "big data",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "2126e710-43b8-449d-b14d-faeab966b55a",
+  "parentId": "40fa5f8f-b65b-40bc-bddc-caa27b57a9f0",
+  "rootParentId": "40fa5f8f-b65b-40bc-bddc-caa27b57a9f0",
+  "name": "bot.define - compute",
+  "auto": true,
+  "contexts": [
+    "botdefine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "botdefine.botdefine-custom",
+      "affectedContexts": [
+        {
+          "name": "botdefine-compute-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c42722c0-65e5-4c2c-8384-e913ad62cba0",
+          "required": false,
+          "dataType": "@technology",
+          "name": "technology",
+          "value": "$technology",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Compute Engine consists of Infrastructure as a service, platform as a service or software as a service. It consists of technologies like Kubernetes, Cloud Functions etc."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

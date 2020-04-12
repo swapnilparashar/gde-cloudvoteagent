@@ -1,0 +1,100 @@
+[
+  {
+    "id": "fa1c47e0-dda3-4445-b8d5-6be1441942fa",
+    "data": [
+      {
+        "text": "Serverless",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70f1d8e1-7267-4c2e-b0c9-8643f3cad855",
+    "data": [
+      {
+        "text": "Infrastructure",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0893285f-d885-4d87-b657-d3ae6b47c8c0",
+    "data": [
+      {
+        "text": "Software",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "576bfabf-0e75-4c2e-82a9-fcdd74cc2a58",
+    "data": [
+      {
+        "text": "Service",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65167861-2b8a-44dd-8071-543284248b54",
+    "data": [
+      {
+        "text": "Platform",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef421dda-1b0b-47db-a18b-b54a3170dff6",
+    "data": [
+      {
+        "text": "Kubernetes",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86be1b9d-fe7f-4a02-8962-2bfba1a4b508",
+    "data": [
+      {
+        "text": "Compute",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

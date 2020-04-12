@@ -1,0 +1,84 @@
+[
+  {
+    "id": "b3080add-2de2-45c4-960b-cd0159975bed",
+    "data": [
+      {
+        "text": "Database",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc234e52-bb8d-408c-a5dd-4f950c91c042",
+    "data": [
+      {
+        "text": "No SQL",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de3cf404-1227-49b1-8cf1-583b8edb4ca1",
+    "data": [
+      {
+        "text": "SQL",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "754d7bad-f84c-42df-ae1e-4a1561b30f00",
+    "data": [
+      {
+        "text": "Fire Store",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb6e4797-9d3b-4fc7-8741-db20d625d17c",
+    "data": [
+      {
+        "text": "File Store",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "726d058f-bf65-47b2-bd9a-dd1b65b3c235",
+    "data": [
+      {
+        "text": "Storage",
+        "alias": "technology",
+        "meta": "@technology",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
